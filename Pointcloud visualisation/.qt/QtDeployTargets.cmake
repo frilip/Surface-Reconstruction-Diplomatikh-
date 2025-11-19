@@ -1,0 +1,4 @@
+set(__QT_DEPLOY_TARGET_CGAL_Qt6_moc_and_resources_FILE /home/frfr/Documents/Τημμυ/Διπλωματική/shared/Pointcloud visualisation/libCGAL_Qt6_moc_and_resources.a)
+set(__QT_DEPLOY_TARGET_CGAL_Qt6_moc_and_resources_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_Read_pointcloud_FILE /home/frfr/Documents/Τημμυ/Διπλωματική/shared/Pointcloud visualisation/Read_pointcloud)
+set(__QT_DEPLOY_TARGET_Read_pointcloud_TYPE EXECUTABLE)

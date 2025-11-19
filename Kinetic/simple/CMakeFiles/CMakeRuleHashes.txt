@@ -1,0 +1,8 @@
+# Hashes of file build rules.
+5816d61cd169d70ccf9f4619ef50be69 CGAL_Qt6_moc_and_resources_autogen/timestamp
+c1779f5b19a76095ebe71e56e6d58fc9 CMakeFiles/CGAL_Qt6_moc_and_resources_autogen
+94a18299aa1b095a3097b7f17e952555 qrc_CGAL.cpp
+878f0db660df0796997f9e995ebc365a qrc_File.cpp
+f76c9b98f367e63a7606d372c2948fa6 qrc_Input.cpp
+eef82042b6edb1f49392228af2ab9e79 qrc_Triangulation_2.cpp
+a64f3dc4141f69a146e93517dc5e990d ui_ImageInterface.h

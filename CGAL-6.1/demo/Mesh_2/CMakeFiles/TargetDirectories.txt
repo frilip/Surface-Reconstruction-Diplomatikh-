@@ -1,0 +1,6 @@
+/home/frfr/Documents/Τημμυ/Διπλωματική/CGAL-6.1/demo/Mesh_2/CMakeFiles/conform.dir
+/home/frfr/Documents/Τημμυ/Διπλωματική/CGAL-6.1/demo/Mesh_2/CMakeFiles/mesh.dir
+/home/frfr/Documents/Τημμυ/Διπλωματική/CGAL-6.1/demo/Mesh_2/CMakeFiles/ALL_CGAL_TARGETS.dir
+/home/frfr/Documents/Τημμυ/Διπλωματική/CGAL-6.1/demo/Mesh_2/CMakeFiles/cgal_check_build_system.dir
+/home/frfr/Documents/Τημμυ/Διπλωματική/CGAL-6.1/demo/Mesh_2/CMakeFiles/edit_cache.dir
+/home/frfr/Documents/Τημμυ/Διπλωματική/CGAL-6.1/demo/Mesh_2/CMakeFiles/rebuild_cache.dir

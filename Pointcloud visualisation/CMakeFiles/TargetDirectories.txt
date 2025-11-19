@@ -1,0 +1,9 @@
+/home/frfr/Documents/Τημμυ/Διπλωματική/shared/Pointcloud visualisation/CMakeFiles/CGAL_Qt6_moc_and_resources.dir
+/home/frfr/Documents/Τημμυ/Διπλωματική/shared/Pointcloud visualisation/CMakeFiles/Read_pointcloud.dir
+/home/frfr/Documents/Τημμυ/Διπλωματική/shared/Pointcloud visualisation/CMakeFiles/ALL_CGAL_TARGETS.dir
+/home/frfr/Documents/Τημμυ/Διπλωματική/shared/Pointcloud visualisation/CMakeFiles/cgal_check_build_system.dir
+/home/frfr/Documents/Τημμυ/Διπλωματική/shared/Pointcloud visualisation/CMakeFiles/compilation_of__CGAL_Qt6_moc_and_resources.dir
+/home/frfr/Documents/Τημμυ/Διπλωματική/shared/Pointcloud visualisation/CMakeFiles/edit_cache.dir
+/home/frfr/Documents/Τημμυ/Διπλωματική/shared/Pointcloud visualisation/CMakeFiles/rebuild_cache.dir
+/home/frfr/Documents/Τημμυ/Διπλωματική/shared/Pointcloud visualisation/CMakeFiles/CGAL_Qt6_moc_and_resources_autogen_timestamp_deps.dir
+/home/frfr/Documents/Τημμυ/Διπλωματική/shared/Pointcloud visualisation/CMakeFiles/CGAL_Qt6_moc_and_resources_autogen.dir

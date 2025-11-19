@@ -1,0 +1,4 @@
+set(__QT_DEPLOY_TARGET_CGAL_Qt6_moc_and_resources_FILE /home/frfr/Documents/Τημμυ/Διπλωματική/shared/Kinetic/simple/libCGAL_Qt6_moc_and_resources.a)
+set(__QT_DEPLOY_TARGET_CGAL_Qt6_moc_and_resources_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_Kinetic_FILE /home/frfr/Documents/Τημμυ/Διπλωματική/shared/Kinetic/simple/Kinetic)
+set(__QT_DEPLOY_TARGET_Kinetic_TYPE EXECUTABLE)
